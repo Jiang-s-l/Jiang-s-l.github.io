@@ -4,10 +4,18 @@
         <title>蒋世莲的网站 Blog</title>
         <link>https://jiang-s-l.github.io/blog</link>
         <description>蒋世莲的网站 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[测试文件]]></title>
+            <link>https://jiang-s-l.github.io/blog/2022/12/09/test/test01</link>
+            <guid>/2022/12/09/test/test01</guid>
+            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[这是一个测试文件]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="这是一个测试文件">这是一个测试文件<a class="hash-link" href="#这是一个测试文件" title="标题的直接链接">​</a></h2>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://jiang-s-l.github.io/blog/welcome</link>
